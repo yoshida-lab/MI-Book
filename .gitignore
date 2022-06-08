@@ -130,3 +130,4 @@ dmypy.json
 
 # custom
 mp_samples.pd.xz
+/data
