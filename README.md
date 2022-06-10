@@ -20,7 +20,20 @@ condaを利用した場合は，[XenonPy installation](https://xenonpy.readthedo
 これらの演習を実行する前に，下記のデータセットを用意してください．
 
 * `retrieve_materials_project.ipynb`を実行して，Materials Projectから無機結晶データをダウンロード．
-* [In house data]()をダウンロードして，解凍してください．
+* [In house data]()をダウンロードして，README.mdと同じフォルダに解凍してください．
+
+フォルダのストラクチャーのイメージ：
+```
+data
+  |- QC_AC_data.pd.xz
+  |- mp_ids.txt
+  |- ...
+output
+  |- <演習中の出力>
+  |- ...
+exercise_2-10.ipynb
+exercise...
+```
 
 ```
 Section 1.3.1 - 演習2 to 10 [Molecular descriptor examples - Wu]
