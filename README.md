@@ -21,7 +21,7 @@ condaを利用した場合は，[XenonPy installation](https://xenonpy.readthedo
 これらの演習を実行する前に，下記のデータセットを用意してください．
 
 * `retrieve_materials_project.ipynb`を実行して，Materials Projectから無機結晶データをダウンロード．
-* [In house data]()をダウンロードして，README.mdと同じフォルダに解凍してください．
+* [In house data](https://github.com/yoshida-lab/MI-Book/releases/download/v1.0.0/data.zip)をダウンロードして，README.mdと同じフォルダに解凍してください．
 
 フォルダのストラクチャーのイメージ：
 ```
